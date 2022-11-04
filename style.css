@@ -18,9 +18,9 @@ a{
   text-decoration: none
 }
 
-@media (max-width: 540px) {
+@media (max-width: 960px) {
   .container{
-    width: 300px;
+    width: 700px;
   }
 }
 
@@ -30,9 +30,9 @@ a{
   }
 }
 
-@media (max-width: 960px) {
+@media (max-width: 540px) {
   .container{
-    width: 700px;
+    width: 300px;
   }
 }
 
